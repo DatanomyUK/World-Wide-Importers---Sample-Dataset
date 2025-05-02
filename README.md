@@ -61,13 +61,13 @@ ________________________________________
 •	KPIs: Top Customers, Customer Lifetime Value, Sales by Salesperson
 •	Visuals: Bar chart (sales by customer), pie chart (customer segments), matrix (sales by salesperson & region), decomposition tree
 
-# Optional Pages to Enhance:
+## Optional Pages to Enhance:
 •	Finance Dashboard (Profit/Loss, Receivables)
 •	Returns & Quality Analysis (Return % by product/supplier)
 •	Forecasting Page (Future sales using DAX or ML model)
 •	Data Quality & Audit Page (Data completeness, anomalies)
 
-# Enhancement Tips
+## Enhancement Tips
 •	Drill-through Pages: Create detail pages for products, customers, or salespeople.
 •	Bookmarks: Use for toggling between views (e.g., YoY vs MoM trends).
 •	Tooltips: Add interactive KPIs when hovering over visuals.
